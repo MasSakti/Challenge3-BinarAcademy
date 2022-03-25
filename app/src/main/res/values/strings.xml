@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Challenge3</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tvScreen1">Screen 1</string>
+    <string name="btnGoto2">Go To Screen 2</string>
+    <string name="tvScreen2">Screen 2</string>
+    <string name="etNama">Masukkan Nama</string>
+    <string name="btnGoto3">Go To Screen 3</string>
+    <string name="tvScreen3">Screen 3</string>
+    <string name="btnGoto4">Go To Screen 4</string>
+    <string name="tvScreen4">Screen 4</string>
+    <string name="etUsia">Masukkan Usia</string>
+    <string name="etAlamat">Masukkan Alamat</string>
+    <string name="etPekerjaan">Masukkan Pekerjaan</string>
+    <string name="btnBackto3">Back To Screen 3</string>
+</resources>
